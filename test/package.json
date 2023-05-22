@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-script-tag": "^1.1.2"
+  }
+}
